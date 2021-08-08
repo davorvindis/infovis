@@ -17,4 +17,3 @@ dendrogram
 Adjacencydiagrams
 Voronoi and jigsaw treemaps
 cliques
-
