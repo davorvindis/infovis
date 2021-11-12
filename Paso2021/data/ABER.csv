@@ -1,12 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2636
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs20 \cf2 Agrupacion;Cargo;Codigo;Distrito;Establecimiento;Fecha;IdCargo;IdCircuito;IdDistrito;IdSeccion;Mesa;Seccion;idAgrupacion;idAgrupacionInt;idLista;lista;tipoVoto;votos\
+Agrupacion;Cargo;Codigo;Distrito;Establecimiento;Fecha;IdCargo;IdCircuito;IdDistrito;IdSeccion;Mesa;Seccion;idAgrupacion;idAgrupacionInt;idLista;lista;tipoVoto;votos\
 ;DIPUTADOS NACIONALES;00001;Ciudad Aut\'f3noma de Buenos Aires;Esc. N\'ba26 Hip\'f3lito Yrigoyen;12-09-2021 19:54;3;00001;1;1;00001X;Comuna 1;;;;;nulos;0\
 ;DIPUTADOS NACIONALES;00001;Ciudad Aut\'f3noma de Buenos Aires;Esc. N\'ba26 Hip\'f3lito Yrigoyen;12-09-2021 19:54;3;00001;1;1;00001X;Comuna 1;;;;;recurridos;0\
 ;DIPUTADOS NACIONALES;00001;Ciudad Aut\'f3noma de Buenos Aires;Esc. N\'ba26 Hip\'f3lito Yrigoyen;12-09-2021 19:54;3;00001;1;1;00001X;Comuna 1;;;;;comando;0\
